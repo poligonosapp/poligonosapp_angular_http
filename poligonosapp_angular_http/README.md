@@ -1,1 +1,0 @@
-# poligonosapp_angular_http
